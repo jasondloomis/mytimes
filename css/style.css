@@ -1,3 +1,6 @@
+
+
+/* header styles */
 header {
   font-family: Verdana;
   font-size: 14px;
@@ -22,13 +25,14 @@ header {
   padding-left: 10px;
 }
 
+/* nav styles in header */
 nav {
   padding-right: 30px;
 }
 
 nav span {
   display: inline-block;
-  padding: 20px 10px;
+  padding: 30px 10px;
 }
 
 nav a {
